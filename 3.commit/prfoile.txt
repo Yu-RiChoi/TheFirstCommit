@@ -1,2 +1,2 @@
-email :
-gitID :
+email : yulee0207@gmail.com
+gitID : Yu-RiChoi
